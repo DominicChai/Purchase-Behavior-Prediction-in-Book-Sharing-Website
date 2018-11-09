@@ -1,0 +1,2 @@
+# Purchase-Behavior-Prediction-in-Book-Sharing-Website
+Developed multi-relational social networks using 50000+ users and their user behavior data collected from Douban.com(A big book/movie sharing website in China), selected an optimal Random Forrest model to accurately(accuracy: 88%) predict user purchase behavior on unseen books, optimizing the design of personalized recommender system in online book sharing communities
