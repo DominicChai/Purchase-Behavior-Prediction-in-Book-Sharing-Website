@@ -8,4 +8,4 @@ Developed multi-relational social networks using 50000+ users and their user beh
 4. scikit-learn = 0.19.2
 
 # Note:
-1. Since the relevant paper is still in the process of reviewing, the code will be open as soon as the paper is granted.
+1. Since the relevant paper is still in the process of reviewing, data and code for social network models are omitted, the complete version of code will be open as soon as the paper is granted.
